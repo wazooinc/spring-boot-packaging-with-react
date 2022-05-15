@@ -32,7 +32,3 @@ build/
 ### VS Code ###
 .vscode/
 
-# update to ignore some react files
-src/main/frontend/node/
-src/main/frontend/package-lock.json
-src/main/frontend/yarn.lock
